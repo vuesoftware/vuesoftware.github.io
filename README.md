@@ -1,8 +1,9 @@
-# <span style="color: blue"> Vue Software </span>
+
+<p align="center">
+  <img src="./Logo-2-small.png"> </img>
+</div>
 
 Software gedreven door innovatie, technologie en vakmanschap.
-
----
 ## Navigatie 
 - [Home](#home)
 - [Over Ons](#over-ons) 
