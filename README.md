@@ -4,13 +4,13 @@
 
 Software gedreven door innovatie, technologie en vakmanschap.
 ## Navigatie 
-- [Home](#home)
+- [Home](index.html)
 - [Over Ons](#over-ons) 
-- [Diensten](#diensten) 
-- [Maatwerk Software](#maatwerk-software) 
-- [Complexe Probleemoplossing](#complexe-probleemoplossing) 
-- [AI Agenten Implementatie](#ai-agenten-implementatie) 
-- [Portfolio](#portfolio) - [Contact](#contact)
+- [Diensten](services.html) 
+- [Maatwerk Software](services.html#custom-software) 
+- [Complexe Probleemoplossing](services.html#complex-problems) 
+- [AI Agenten Implementatie](services.html#ai-agent-integration) 
+- [Portfolio](#portfolio) - [Contact](index.html#contact)
 ---
 
 ## Wie zijn wij?
@@ -64,19 +64,19 @@ bespreken.
 
 - Maatwerk Software Ontwikkeling  
   Oplossingen volledig afgestemd op uw specifieke behoeften.  
-  [Meer informatie](#dienst-maatwerk)
+  [Meer informatie](services.html#custom-software)
 
 - Complexe Probleemoplossing  
   Wij lossen uitdagingen op die uw interne teams niet kunnen oplossen.  
-  [Ontdek hoe](#dienst-complex)
+  [Ontdek hoe](services.html#complex-problems)
 
 - Innovatieve Samenwerkingen  
   Gezamenlijk nieuwe systemen en technologieën ontwikkelen om uw bedrijf verder te brengen.  
-  [Laten we samenwerken](#dienst-samenwerking)
+  [Laten we samenwerken](services.html#collaborations)
 
 - AI Agent Integration  
   Wij bieden een uitgebreide service voor de integratie van AI-agents in uw bedrijfsprocessen. Onze aanpak zorgt voor een efficiëntere workflow, betere klantbeleving, verhoogde privacy en veiligheid, schaalbaarheid en kosteneffectiviteit.  
-  [Meer informatie](#ai-agent-integration)
+  [Meer informatie](services.html#ai-agent-integration)
 
 ---
 
