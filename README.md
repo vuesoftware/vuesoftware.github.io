@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./Logo-2-small.png"> </img>
 </div>
@@ -25,41 +24,7 @@ Wij pakken ontwikkelingsvraagstukken aan die niet intern kunnen worden opgelost.
 
 ---
 
-## Diensten
-
-### Wat wij bieden
-
-- Maatwerk Software Ontwikkeling  
-  Oplossingen volledig afgestemd op uw specifieke behoeften.  
-  [Meer informatie](#dienst-maatwerk)
-
-- Complexe Probleemoplossing  
-  Wij lossen uitdagingen op die uw interne teams niet kunnen oplossen.  
-  [Ontdek hoe](#dienst-complex)
-
-- Innovatieve Samenwerkingen  
-  Gezamenlijk nieuwe systemen en technologieën ontwikkelen om uw bedrijf verder te brengen.  
-  [Laten we samenwerken](#dienst-samenwerking)
-
----
-
-## Lopende Projecten
-
-### Homomorphic encryption: 
-  Wij onderzoeken de toepassing van homomorfe encryptie-algoritmes om veilige
-  gegevensuitwisseling tussen partijen te realiseren. We ontwikkelen oplossingen die voorkomen dat privacygevoelige
-  informatie wordt opgeslagen, terwijl toch nauwkeurige validatie en samenwerking mogelijk blijven. Dit maakt het
-  mogelijk om gevoelige gegevens te verwerken zonder deze eerst te ontsleutelen, waardoor dit een optimale keuze is voor
-  sectoren als zorg, financiën en juridische dienstverlening.  
-  **Voordelen:**
-  - 💡 Verbeterde privacybescherming
-  - 🔒 Geavanceerde gegevensbeveiliging
-  - ⚡  Efficiënte samenwerking zonder gegevensverlies
-  - 💰 Mogelijke kostenbesparing. Door gevoelige gegevens te verwerken zonder dat deze ontsleuteld moeten worden, wordt het risico op datalekken
-    verlaagd, wat kan bijdragen aan een vermindering van kosten gerelateerd aan beveiligingsincidenten en compliance.
-  
-    [Lees meer over onze encryptie-oplossingen](#homomorphic-encryptie)
-
+## AI Agent Integration
 
 ### Optimalisatie van uw bedrijfsprocessen met AI Agents
 
@@ -88,7 +53,53 @@ toekomstbestendiger kunnen maken.
 
 Bent u benieuwd naar wat AI-agents voor uw organisatie kunnen betekenen? Neem contact met ons op om de mogelijkheden te
 bespreken.
-### Waarom u voor ons kiest
+
+[Contacteer ons voor meer informatie](mailto:info@vuesoftware.nl)
+
+---
+
+## Diensten
+
+### Wat wij bieden
+
+- Maatwerk Software Ontwikkeling  
+  Oplossingen volledig afgestemd op uw specifieke behoeften.  
+  [Meer informatie](#dienst-maatwerk)
+
+- Complexe Probleemoplossing  
+  Wij lossen uitdagingen op die uw interne teams niet kunnen oplossen.  
+  [Ontdek hoe](#dienst-complex)
+
+- Innovatieve Samenwerkingen  
+  Gezamenlijk nieuwe systemen en technologieën ontwikkelen om uw bedrijf verder te brengen.  
+  [Laten we samenwerken](#dienst-samenwerking)
+
+- AI Agent Integration  
+  Wij bieden een uitgebreide service voor de integratie van AI-agents in uw bedrijfsprocessen. Onze aanpak zorgt voor een efficiëntere workflow, betere klantbeleving, verhoogde privacy en veiligheid, schaalbaarheid en kosteneffectiviteit.  
+  [Meer informatie](#ai-agent-integration)
+
+---
+
+## Lopende Projecten
+
+### Homomorphic encryption: 
+  Wij onderzoeken de toepassing van homomorfe encryptie-algoritmes om veilige
+  gegevensuitwisseling tussen partijen te realiseren. We ontwikkelen oplossingen die voorkomen dat privacygevoelige
+  informatie wordt opgeslagen, terwijl toch nauwkeurige validatie en samenwerking mogelijk blijven. Dit maakt het
+  mogelijk om gevoelige gegevens te verwerken zonder deze eerst te ontsleutelen, waardoor dit een optimale keuze is voor
+  sectoren als zorg, financiën en juridische dienstverlening.  
+  **Voordelen:**
+  - 💡 Verbeterde privacybescherming
+  - 🔒 Geavanceerde gegevensbeveiliging
+  - ⚡  Efficiënte samenwerking zonder gegevensverlies
+  - 💰 Mogelijke kostenbesparing. Door gevoelige gegevens te verwerken zonder dat deze ontsleuteld moeten worden, wordt het risico op datalekken
+    verlaagd, wat kan bijdragen aan een vermindering van kosten gerelateerd aan beveiligingsincidenten en compliance.
+  
+    [Lees meer over onze encryptie-oplossingen](#homomorphic-encryptie)
+
+---
+
+## Waarom u voor ons kiest
 
 - 🏆 Kwaliteit voorop  
   Wij leveren oplossingen die voldoen aan de hoogste standaarden.
